@@ -1,0 +1,11 @@
+cvlib==0.2.7
+opencv==4.6.0
+numpy==1.25.2
+datagradients==0.3.0
+keras==2.10.0
+pillow==10.0.0
+pymongo=4.5.0
+fastapi==0.103.2
+scikit-learn==1.2.2
+ultralytics==8.0.164
+uvicorn=0.23.2
